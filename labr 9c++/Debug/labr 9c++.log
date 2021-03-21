@@ -1,7 +1,7 @@
 ﻿  labr 9c++.cpp
-C:\Users\gamel\source\repos\labr 9c++\labr 9c++.cpp(239,10): warning C4244: return: преобразование "int" в "float", возможна потеря данных
-C:\Users\gamel\source\repos\labr 9c++\labr 9c++.cpp(447,33): warning C4305: аргумент: усечение из "double" в "float"
-C:\Users\gamel\source\repos\labr 9c++\labr 9c++.cpp(430,11): warning C4930: students st(void): функция с прототипом не вызвана (предполагалось определение переменной?)
-C:\Users\gamel\source\repos\labr 9c++\labr 9c++.cpp(199): warning C4172: возвращение адреса локальной или временной переменной : sum2
-C:\Users\gamel\source\repos\labr 9c++\labr 9c++.cpp(184): warning C4172: возвращение адреса локальной или временной переменной : sum1
+C:\Users\gamel\source\repos\labr 9c++\labr 9c++.cpp(244,10): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\gamel\source\repos\labr 9c++\labr 9c++.cpp(438,33): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\gamel\source\repos\labr 9c++\labr 9c++.cpp(422,11): warning C4930: students st(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\gamel\source\repos\labr 9c++\labr 9c++.cpp(189): warning C4172: возвращение адреса локальной или временной переменной : sum1
+C:\Users\gamel\source\repos\labr 9c++\labr 9c++.cpp(204): warning C4172: возвращение адреса локальной или временной переменной : sum2
   labr 9c++.vcxproj -> C:\Users\gamel\source\repos\labr 9c++\Debug\labr 9c++.exe
